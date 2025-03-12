@@ -56,7 +56,7 @@ The following diagnostic, forensics, and screen sharing tools are included in th
 ## Installation
 
 1. **Download the Tool**:
-   - Download the latest release from the [releases page](#).
+   - Download the latest release from the [releases page](https://github.com/btcbyte/Checking-tool/releases/tag/1.0).
    
 2. **Run the Setup**:
    - Execute the setup file to install the PC Check & Screen Sharing Tool on your system.
@@ -66,6 +66,7 @@ The following diagnostic, forensics, and screen sharing tools are included in th
 
 4. **Choose Your Toolset**:
    - Select from diagnostic tools, forensics tools, or screen sharing configuration based on your needs.
+
 
 ## Usage
 
