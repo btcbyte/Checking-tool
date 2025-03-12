@@ -44,7 +44,7 @@ The following diagnostic, forensics, and screen sharing tools are included in th
 
 - **Red Lotus BAM**: PowerShell script to parse and analyze Boot Activity Monitor (BAM) files, extracting system startup and event data.
 - **Path Signature**: PowerShell script for tracing file paths and identifying file signatures, useful for forensic analysis and file integrity checks.
-- **Hard Disk Volume**: PowerShell script to manage or report on hard disk volumes, including checking volume sizes, file system types, and health status.
+- **Hard Disk Volume**: PowerShell script to manage or report on hard disk volumes, including checking volume sizes etc :sob: cba to type
 - **Services**: PowerShell script for managing and analyzing Windows services, such as checking service status, configuration, and logs.
 
 ### Screen Sharing Tools:
@@ -72,8 +72,9 @@ The following diagnostic, forensics, and screen sharing tools are included in th
 ## Usage
 
 - **System Forensics & Diagnostics**:
-  - Select the tools you need to perform system analysis or check the health of your PC.
-  - Some tools may require administrative privileges to function properly.
+- Select the tools you need to perform system analysis or check your PC.
+- Some tools may require administrative privileges to function properly.
+
 
 - **PowerShell Scripts**:
   - You can run the included PowerShell scripts directly from the tool interface or manually via PowerShell.
