@@ -1,0 +1,7 @@
+C:\Users\rrswt\source\repos\Detect AC\Detect AC\bin\Debug\Detect AC.exe.config
+C:\Users\rrswt\source\repos\Detect AC\Detect AC\bin\Debug\Detect AC.exe
+C:\Users\rrswt\source\repos\Detect AC\Detect AC\bin\Debug\Detect AC.pdb
+C:\Users\rrswt\source\repos\Detect AC\Detect AC\obj\Debug\Detect AC.csproj.AssemblyReference.cache
+C:\Users\rrswt\source\repos\Detect AC\Detect AC\obj\Debug\Detect AC.csproj.CoreCompileInputs.cache
+C:\Users\rrswt\source\repos\Detect AC\Detect AC\obj\Debug\Detect AC.exe
+C:\Users\rrswt\source\repos\Detect AC\Detect AC\obj\Debug\Detect AC.pdb
