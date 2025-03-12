@@ -1,6 +1,7 @@
 # PC Check & Screen Sharing Tool
 
-This tool is a comprehensive suite designed to automatically download and set up essential tools for performing PC health checks, system forensics, and screen sharing. It helps troubleshoot system performance issues, analyze system logs, and set up screen sharing for remote support or presentations.
+This tool is a comprehensive suite designed to automatically download and set up essential tools for performing **PC checks**, system forensics, and screen sharing. It helps troubleshoot system performance issues, analyze system logs, and set up screen sharing for remote support or presentations.
+
 
 ## Features
 
