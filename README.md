@@ -5,7 +5,7 @@ This tool is a comprehensive suite designed to automatically download and set up
 
 ## Features
 
-- **System Forensics & Diagnostics**: Automatically installs a variety of powerful system forensics and diagnostic tools to analyze your PC's health and activity.
+- **System Forensics & Diagnostics**: Automatically installs a variety of powerful system forensics and diagnostic tools to analyze your PC's activity through PC checks.
 - **Screen Sharing Setup**: Simplifies the process of setting up screen sharing tools for remote access or presentations.
 - **Comprehensive Toolset**: Includes a wide range of tools for different diagnostic tasks, such as file analysis, system event tracking, forensic investigation, and more.
 - **Automatic Tool Updates**: Ensures all included tools are updated to the latest versions to maintain compatibility and reliability.
