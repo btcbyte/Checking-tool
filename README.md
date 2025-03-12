@@ -82,17 +82,10 @@ The following diagnostic, forensics, and screen sharing tools are included in th
   - Choose your preferred screen-sharing software setup.
   - The tool will guide you through the installation and configuration steps.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. Ensure that your changes are well-documented, and run all necessary tests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-For issues or questions, please open an issue on the [GitHub issues page](#), or contact support at @thcjackk on Discord.
+For issues or questions, please open an issue on the [GitHub issues page](https://github.com/forensicanalysistools/Checking-tool/issues), or contact support at @thcjackk on Discord.
 
 ---
 
