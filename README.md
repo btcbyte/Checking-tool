@@ -6,7 +6,7 @@ This tool is a comprehensive suite designed to automatically download and set up
 
 - **System Forensics & Diagnostics**: Automatically installs a variety of powerful system forensics and diagnostic tools to analyze your PC's health and activity.
 - **Screen Sharing Setup**: Simplifies the process of setting up screen sharing tools for remote access or presentations.
-- **Comprehensive Toolset**: Includes a wide range of tools for different diagnostic tasks, such as file analysis, system event tracking, and forensic investigation.
+- **Comprehensive Toolset**: Includes a wide range of tools for different diagnostic tasks, such as file analysis, system event tracking, forensic investigation, and more.
 - **Automatic Tool Updates**: Ensures all included tools are updated to the latest versions to maintain compatibility and reliability.
 - **Easy to Use**: A simple, user-friendly interface that allows you to select tools based on your needs (diagnostics, forensics, or screen sharing).
 
@@ -39,13 +39,19 @@ The following diagnostic, forensics, and screen sharing tools are included in th
 - **RegistryExplorer**: A tool for exploring and analyzing Windows registry data for forensic evidence.
 - **MFTECmd**: A tool for analyzing Master File Table (MFT) data on NTFS file systems.
 
+### PowerShell Scripts:
+
+- **Red Lotus BAM**: PowerShell script to parse and analyze Boot Activity Monitor (BAM) files, extracting system startup and event data.
+- **Path Signature**: PowerShell script for tracing file paths and identifying file signatures, useful for forensic analysis and file integrity checks.
+- **Hard Disk Volume**: PowerShell script to manage or report on hard disk volumes, including checking volume sizes, file system types, and health status.
+- **Services**: PowerShell script for managing and analyzing Windows services, such as checking service status, configuration, and logs.
+
 ### Screen Sharing Tools:
 
 - Setup configuration for popular screen sharing software, including:
-  - **Zoom**
-  - **Microsoft Teams**
-  - **Google Meet**
   - **AnyDesk**
+  - **Teamviewer**
+  - **RUSTDESK**
 
 ## Installation
 
@@ -67,6 +73,10 @@ The following diagnostic, forensics, and screen sharing tools are included in th
   - Select the tools you need to perform system analysis or check the health of your PC.
   - Some tools may require administrative privileges to function properly.
 
+- **PowerShell Scripts**:
+  - You can run the included PowerShell scripts directly from the tool interface or manually via PowerShell.
+  - Some scripts may require elevated privileges to execute.
+
 - **Screen Sharing Setup**:
   - Choose your preferred screen-sharing software setup.
   - The tool will guide you through the installation and configuration steps.
@@ -81,8 +91,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For issues or questions, please open an issue on the [GitHub issues page](#), or contact support at [support@yourdomain.com](mailto:support@yourdomain.com).
+For issues or questions, please open an issue on the [GitHub issues page](#), or contact support at @thcjackk on Discord.
 
 ---
 
-Thanks for using the PC Check & Screen Sharing Tool! Happy troubleshooting and sharing.
+Thanks for using the PC Check & Screen Sharing Tool! Happy Screensharing 
